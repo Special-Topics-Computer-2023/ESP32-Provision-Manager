@@ -1,5 +1,7 @@
 # 64030161
 
+Repo https://github.com/RachataS/ESPWiFiProvision.git
+
 ## output ก่อนเชื่อมต่อ wifi
 
 เมื่อกดปุ่มบนบอร์ดและปุ่ม reset จะแสดง QR code ให้สแกนเพื่อเชื่อมต่อ esp เข้ากับ Wifi และบอกชื่อกับรหัสของ esp
