@@ -22,8 +22,13 @@
 1. สร้าง project บน ESP-idf โดยใช้ template `wifi_prov_mgr`
 2. เพิ่มปุ่มสำหรับการทำ provision (GPIO Input) จำนวน 1 ปุ่ม
 3. โหลดโปรแกรมลงสู่ ESP32
-4. ใช้ Mobile application ในการ provision (ป้อน SSID และ Password)
-5. ใช้งาน WiFi บน ESP32 ได้ตามปกติ
+4. ![image](https://github.com/Prangpanwat/ESP32-Provision-Manager/assets/116150897/9fba0cfb-6642-4f63-a1b5-7517a6969773)
+
+5. ใช้ Mobile application ในการ provision (ป้อน SSID และ Password)
+   ![S__10641417](https://github.com/Prangpanwat/ESP32-Provision-Manager/assets/116150897/7d0088ae-f4e9-49a0-b02f-0a89bda9ca8d)
+
+6. ใช้งาน WiFi บน ESP32 ได้ตามปกติ
+![image](https://github.com/Prangpanwat/ESP32-Provision-Manager/assets/116150897/1d7fadfd-6a7c-4cd4-a9bb-a636991e1d67)
 
 ## [>> ใบงานการทดลอง ESP32 WiFi provision >>](1.Create-Project.md)
 
