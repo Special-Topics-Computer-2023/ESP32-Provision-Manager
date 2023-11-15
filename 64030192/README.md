@@ -42,3 +42,10 @@ I (1304) NimBLE:
 I (1514) app: If QR code is not visible, copy paste the below URL in a browser.
 https://espressif.github.io/esp-jumpstart/qrcode.html?data={"ver":"v1","name":"PROV_F82D6C","pop":"abcd1234","transport":"ble"}
 ```
+
+![Screenshot 2023-11-15 114748](https://github.com/Siracha192/ESP32-Provision-Manager/assets/115066298/71c4a9ea-089d-4777-bcef-504e3c062b3e)
+
+output terminal หลังเชื่อมต่อ esp กับ wifi terminal จะแสดง IP และ Hello World
+
+
+![281719482-c27b26d8-0331-4f55-8b50-58ae9124d2e0](https://github.com/Siracha192/ESP32-Provision-Manager/assets/115066298/05dee4dc-47ad-4949-ae5a-5d5c3268dc33)
